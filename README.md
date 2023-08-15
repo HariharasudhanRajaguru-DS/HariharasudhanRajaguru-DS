@@ -5,17 +5,17 @@
 
 
 - 🔭 I’m currently working on Machine Learning Projects
-- 🌱 I’m currently learning Deutshe
+- 🌱 I’m currently learning Deutshe ☀️
 - 👯 I’m looking to collaborate on Data Science experts & competitors
 - 🤔 I’m looking for help with finding a job in Germany
 - 💬 Ask me about SQL/PLSQL
-- 📫 How to reach me: harryrajaguru@gmail.com
+- 📫 How to reach me: harryrajaguru@gmail.com 📧, https://www.linkedin.com/in/hariharasudhan-rajaguru/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to play cricket, watch documentries, listening audio books
+- ⚡ Fun fact: I like to play cricket, watch documentries🎬, listening audio books🎧
  
 
 
-## Programming Languages
+## Programming Languages ✅
 - C
 - C++
 - SQL|PLSQL
@@ -24,7 +24,7 @@
 - Unix
 - AWS
 
-## Certifications & Training
+## Certifications & Training 🏆
 
   
   
