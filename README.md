@@ -28,18 +28,29 @@
 
 ### IDE's/ Editors
 <p>
-  <img src="./images/jupyter.png" width="100" title="Python">
-  <img src="./images/notepad++.jpg" width="100" title="SQL|PLSQL">
-  <img src="./images/oracle sql developer.png" width="100" title="C">
-  <img src="./images/visual-studio.png" width="100" title="C++">
-  <img src="./images/java.png" width="100" title="Java">
+  <img src="./images/jupyter.png" width="100" title="">
+  <img src="./images/notepad++.jpg" width="100" title="">
+  <img src="./images/oracle sql developer.png" width="100" title="">
+  <img src="./images/visual-studio.png" width="100" title="">
+  <img src="./images/java.png" width="100" title="">
 </p>
 
 ### Databases
 <p>
-  <img src="./images/oracle-db.png" width="100" title="Python">
-  <img src="./images/postgresql.png" width="100" title="SQL|PLSQL">
-  <img src="./images/mongodb.png" width="100" title="C">
+  <img src="./images/oracle-db.png" width="100" title="">
+  <img src="./images/postgresql.png" width="100" title="">
+  <img src="./images/mongodb.png" width="100" title="">
+ </p>
+ 
+### Python|ML libraries
+<p>
+  <img src="./images/pandas.png" width="100" title="">
+  <img src="./images/numpy.png" width="100" title="">
+  <img src="./images/matplot_title_logo.png" width="100" title="">
+  <img src="./images/bokeah.png" width="100" title="">
+  <img src="./images/plotly.png" width="100" title="">
+  <img src="./images/sns.png" width="100" title="">
+  <img src="./images/matplot_title_logo.png" width="100" title="">
  </p>
 
 ## Certifications & Training 🏆
