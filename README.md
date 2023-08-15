@@ -15,16 +15,27 @@
  
 
 
-## Programming Languages ✅
- <p align="left">
-  <img src="./images/python.png" width="75" title="Python">
-  <img src="./images/sql-server.png" width="75" title="hover text">
-  <img src="./images/letter-c.png" width="75" title="hover text">
-  <img src="./images/c-logo.png" width="75" title="hover text">
-  <img src="./images/java.png" width="75" title="hover text">
+## Technical Skills ✅
+### Programming Languages
+<p>
+  <img src="./images/python.png" width="50" title="Python">
+  <img src="./images/sql-server.png" width="50" title="SQL|PLSQL">
+  <img src="./images/letter-c.png" width="50" title="C">
+  <img src="./images/c-logo.png" width="50" title="C++">
+  <img src="./images/java.png" width="50" title="Java">
+</p>
+
+### IDE's/ Editors
+<p>
+  <img src="./images/python.png" width="50" title="Python">
+  <img src="./images/sql-server.png" width="50" title="SQL|PLSQL">
+  <img src="./images/letter-c.png" width="50" title="C">
+  <img src="./images/c-logo.png" width="50" title="C++">
+  <img src="./images/java.png" width="50" title="Java">
 </p>
 
 ## Certifications & Training 🏆
+-IBM Data Science Professional
 
   
   
