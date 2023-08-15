@@ -19,7 +19,10 @@
 - C
 - C++
 - SQL|PLSQL
-- Python
+ <p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="./images/python.png" width="20" alt="accessibility text">
+</p>
 - Java
 - Unix
 - AWS
