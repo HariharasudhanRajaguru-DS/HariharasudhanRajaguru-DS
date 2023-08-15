@@ -36,7 +36,7 @@
 </p>
 
 ## Certifications & Training 🏆
--IBM Data Science Professional
+IBM Data Science Professional
 
   
   
