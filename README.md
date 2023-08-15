@@ -16,16 +16,13 @@
 
 
 ## Programming Languages ✅
-- C
-- C++
-- SQL|PLSQL
- <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="./images/python.png" width="20" alt="accessibility text">
+ <p align="left">
+  <img src="./images/python.png" width="75" title="Python">
+  <img src="./images/sql-server.png" width="75" title="hover text">
+  <img src="./images/letter-c.png" width="75" title="hover text">
+  <img src="./images/c-logo.png" width="75" title="hover text">
+  <img src="./images/java.png" width="75" title="hover text">
 </p>
-- Java
-- Unix
-- AWS
 
 ## Certifications & Training 🏆
 
