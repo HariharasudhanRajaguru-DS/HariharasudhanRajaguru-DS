@@ -32,8 +32,7 @@
   <img src="./images/notepad++.jpg" width="100" title="">
   <img src="./images/oracle sql developer.png" width="100" title="">
   <img src="./images/visual-studio.png" width="100" title="">
-  <img src="./images/java.png" width="100" title="">
-</p>
+ </p>
 
 ### Databases
 <p>
@@ -49,9 +48,9 @@
   </p>
 
 ## Certifications & Training 🏆
-- [IBM Data Science Professional](https://www.coursera.org/account/accomplishments/professional-cert/8HKG4NNP3D5Q?)
-- [Spiced Data Science Bootcamp Graduation](https://www.credential.net/73d94465-c555-44ff-ba0a-57d7cea941fe#gs.3wpfyi)
-- [Tableau](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI3OTUiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl8zNzY4MDQ3XzE2NjMwNjQxOTUucG5nIiwidXNlcm5hbWUiOiJIYXJpaGFyYXN1ZGhhbiBSYWphZ3VydSJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fdashboard%2Fcertificate&%24web_only=true&_branch_match_id=1202511559767831480&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVTwsw93Q0KbLMKEkCABQkRVslAAAA)
+- ### [IBM Data Science Professional](https://www.coursera.org/account/accomplishments/professional-cert/8HKG4NNP3D5Q?)
+- ### [Spiced Data Science Bootcamp Graduation](https://www.credential.net/73d94465-c555-44ff-ba0a-57d7cea941fe#gs.3wpfyi)
+- ### [Tableau](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI3OTUiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl8zNzY4MDQ3XzE2NjMwNjQxOTUucG5nIiwidXNlcm5hbWUiOiJIYXJpaGFyYXN1ZGhhbiBSYWphZ3VydSJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fdashboard%2Fcertificate&%24web_only=true&_branch_match_id=1202511559767831480&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVTwsw93Q0KbLMKEkCABQkRVslAAAA)
 
   
   
