@@ -51,7 +51,8 @@
   <img src="./images/plotly.png" width="100" title="">
   <img src="./images/sns.png" width="100" title="">
   <img src="./images/matplot_title_logo.png" width="100" title="">
- </p>
+  <img src="./images/matplot_title_logo.png" width="100" title="">
+</p>
 
 ## Certifications & Training 🏆
 IBM Data Science Professional
