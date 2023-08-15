@@ -18,25 +18,29 @@
 ## Technical Skills ✅
 ### Programming Languages
 <p>
-  <img src="./images/python.png" width="50" title="Python">
-  <img src="./images/sql-server.png" width="50" title="SQL|PLSQL">
-  <img src="./images/letter-c.png" width="50" title="C">
-  <img src="./images/c-logo.png" width="50" title="C++">
-  <img src="./images/java.png" width="50" title="Java">
-  <img src="./images/html_256x256.png" width="50" title="Java">
+  <img src="./images/python.png" width="100" title="Python">
+  <img src="./images/sql-server.png" width="100" title="SQL|PLSQL">
+  <img src="./images/letter-c.png" width="100" title="C">
+  <img src="./images/c-logo.png" width="100" title="C++">
+  <img src="./images/java.png" width="100" title="Java">
+  <img src="./images/html_256x256.png" width="100" title="Java">
 </p>
 
 ### IDE's/ Editors
 <p>
-  <img src="./images/jupyter.png" width="50" title="Python">
-  <img src="./images/notepad++.jpg" width="50" title="SQL|PLSQL">
-  <img src="./images/oracle sql developer.png" width="50" title="C">
-  <img src="./images/visual-studio.png" width="50" title="C++">
-  <img src="./images/java.png" width="50" title="Java">
+  <img src="./images/jupyter.png" width="100" title="Python">
+  <img src="./images/notepad++.jpg" width="100" title="SQL|PLSQL">
+  <img src="./images/oracle sql developer.png" width="100" title="C">
+  <img src="./images/visual-studio.png" width="100" title="C++">
+  <img src="./images/java.png" width="100" title="Java">
 </p>
 
 ### Databases
-
+<p>
+  <img src="./images/oracle-db.png" width="100" title="Python">
+  <img src="./images/postgresql.png" width="100" title="SQL|PLSQL">
+  <img src="./images/mongodb.png" width="100" title="C">
+ </p>
 
 ## Certifications & Training 🏆
 IBM Data Science Professional
