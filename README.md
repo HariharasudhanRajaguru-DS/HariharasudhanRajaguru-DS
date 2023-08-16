@@ -1,6 +1,6 @@
 # Hi World 👋, I'm Hariharasudhan Rajaguru👨‍💻.
 ## I am a Data Scientist|Machine Learning Engineer.✍️
-### I love to gather,analyse data and extract information to build ML/AI model to predict possible future outcomes.
+### I love to gather,analyse data and extract information to build best ML/AI model and predict possible future outcomes.
 
 
 
